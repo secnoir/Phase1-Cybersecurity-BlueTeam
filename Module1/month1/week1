@@ -20,5 +20,5 @@ find / -perm 4000  #This detects the SUID binaries , SUID binaries are special t
 cd  #This is used to navigate through the system
 cd ~ #It takes you to the home directory
 cd / #Takes you to whatever directory you enter
-
+pwd #Shows where you are 
 
